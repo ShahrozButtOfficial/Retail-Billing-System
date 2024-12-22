@@ -1,0 +1,17 @@
+		     ** Welcome Customer **
+
+ Bill Number: 1348
+ Customer Name: aliza
+ Phone Number: 03434544276
+===========================================================
+  Product			Quantity			Price
+===========================================================  Bath Soap			 5			100 Rs
+  Face Cream			 56			2800 Rs
+  Face Wash			 6			360 Rs
+  Wheat			 5			3275 Rs
+-----------------------------------------------------------
+ Cosmetics Tax: 						391.2 Rs
+ Grocery Tax: 						163.75 Rs
+
+ Total Bill: 						6535 Rs
+-----------------------------------------------------------

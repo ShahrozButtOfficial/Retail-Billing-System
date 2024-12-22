@@ -1,0 +1,26 @@
+		     ** Welcome Customer **
+
+ Bill Number: 5750
+ Customer Name: shahroz
+ Phone Number: 03194785543
+===========================================================
+  Product			Quantity			Price
+===========================================================  Bath Soap			 4			80 Rs
+  Face Cream			 5			250 Rs
+  Face Wash			 6			360 Rs
+  Hair Spray			 5			500 Rs
+  Rice			 4			480 Rs
+  Daal			 1			80 Rs
+  Wheat			 10			6550 Rs
+  Maaza			 6			150 Rs
+  Pepsi			 3			150 Rs
+  Sprite			 5			275 Rs
+  Dew			 4			280 Rs
+  Frooti			 5			225 Rs
+-----------------------------------------------------------
+ Cosmetics Tax: 						142.79999999999998 Rs
+ Grocery Tax: 						355.5 Rs
+ Drinks Tax: 						86.4 Rs
+
+ Total Bill: 						9380 Rs
+-----------------------------------------------------------
